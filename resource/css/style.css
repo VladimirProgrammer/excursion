@@ -1,4 +1,16 @@
-h1 {
-    color: blue;
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.header--main {
+    font-weight: 50px;
+    font-size: normal;
+}
+
+.link_1 {
+    font-size: 16px;
+    color: aquamarine;
 }
